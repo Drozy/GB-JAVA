@@ -1,11 +1,8 @@
 package sem02;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
-import java.util.Arrays;
-import java.util.Scanner;
+
 
 /*
  * Дана json строка (можно сохранить в файл и читать из файла)
